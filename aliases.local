@@ -1,4 +1,6 @@
 alias v='mvim'
+#alias vim='nvim'
+alias vim='NVIM_TUI_ENABLE_TRUE_COLOR=1 nvim'
 
 # Reload zsh
 alias reload='source ~/.zshrc'
